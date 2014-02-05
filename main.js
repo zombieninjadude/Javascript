@@ -1,1 +1,4 @@
-alert("this is a test");
+var YourName;
+YourName="Luke Dare";
+
+alert("Hello, "+YourName);
