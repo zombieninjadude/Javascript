@@ -1,4 +1,10 @@
-var YourName;
-YourName="Luke Dare";
+// this is a comment in JavaScript
 
-alert("Hello, "+YourName);
+/* this is a
+multiline comment */
+
+var yourName;
+
+yourName = "Luke Dare";
+
+alert("Hello, " + yourName);
