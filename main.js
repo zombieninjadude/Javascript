@@ -5,9 +5,9 @@ multiline comment */
 
 var yourName;
 
-yourName = prompt("Please input your name.");
+yourName = "";
 
-if (yourName === "") {
+while (yourName === "") {
 yourName = prompt("Please input your name.");
 }
 
