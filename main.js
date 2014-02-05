@@ -5,6 +5,6 @@ multiline comment */
 
 var yourName;
 
-yourName = "Luke Dare";
+yourName = prompt("Please input your name.");
 
 alert("Hello, " + yourName);
