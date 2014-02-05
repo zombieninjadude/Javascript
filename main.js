@@ -7,4 +7,8 @@ var yourName;
 
 yourName = prompt("Please input your name.");
 
+if (yourName === null) {
+alert("OK, fine. ");
+} else {
 alert("Hello, " + yourName);
+}
